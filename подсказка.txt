@@ -1,4 +1,4 @@
 WriteLine
 ReadLine
 +
-Max(double a, double b): возвращает максимальное число из a и b
+Math.Max(double a, double b): возвращает максимальное число из a и b
