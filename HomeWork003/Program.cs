@@ -7,13 +7,14 @@
 
 Console.WriteLine("Введите число a: ");
 double a = Convert.ToInt32(Console.ReadLine());
+double b = 2;
 
-if (a % 2 == 0)
+if (a % b == 0)
 {
    
-   Console.WriteLine("a = "+a+" -> да");
+   Console.WriteLine(+a+" -> да");
 }
 else
 {
-    Console.WriteLine("a = "+a+" -> нет");
+    Console.WriteLine(+a+" -> нет");
 }
