@@ -2,3 +2,9 @@ WriteLine
 ReadLine
 +
 Math.Max(double a, double b): возвращает максимальное число из a и b
+
+Math - математика
+While - пока
+do - делай
+if - если
+else - иначе

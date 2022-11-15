@@ -13,7 +13,7 @@ Console.WriteLine("Введите число с: ");
 int c = Convert.ToInt32(Console.ReadLine());
 
 if (a > b)
-    Console.WriteLine("a = "+a+", b = "+b+", c = "+c+", -> = "+Math.Max(a,c));
+    Console.WriteLine("a = "+a+", b = "+b+", c = "+c+", -> "+Math.Max(a,c));
     
 else 
-    Console.WriteLine("a = "+a+", b = "+b+", c = "+c+", -> = "+Math.Max(b,c));
+    Console.WriteLine("a = "+a+", b = "+b+", c = "+c+", -> "+Math.Max(b,c));
